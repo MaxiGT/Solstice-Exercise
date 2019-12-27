@@ -1,0 +1,22 @@
+.list-group-item {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.phone_type {
+  float: right;
+  text-transform: capitalize;
+  color: grey;
+  font-weight: 500;
+}
+
+.label {
+  color: grey;
+  font-size: 12px;
+  padding-bottom: 8px;
+  font-weight: lighter;
+}
+
+.listItem_mainProp {
+  font-weight: bold;
+}

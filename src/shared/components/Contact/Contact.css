@@ -1,0 +1,13 @@
+.contact_name {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.contact_companyName {
+  text-align: center;
+  font-size: 15px;
+  margin-top: -15px;
+  font-weight: lighter;
+  color: grey;
+}
